@@ -1,9 +1,10 @@
 # TaskFlow — Task Management Web App
-review on https://task-manager-qf0059h2j-michal-tobias-projects.vercel.app/
 
 A lightweight task management app built with React, TypeScript, and Vite.
 
 The app helps users organize daily work with priorities, due dates, search, filters, and local browser persistence.
+
+Pre-view on https://task-manager-qf0059h2j-michal-tobias-projects.vercel.app/
 
 ## Features
 
